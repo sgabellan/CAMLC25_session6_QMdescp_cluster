@@ -1,0 +1,11 @@
+code_name,SMILES
+mol_1,O=Cc1cc(Br)c2c(c1)OCO2
+mol_2,COc1cc(C=O)cc(Br)c1OCC(=O)N(C)C
+mol_3,COC(=O)c1cc(Br)ccc1N
+mol_4,O=Cc1ccc(OCCO)cc1Br
+mol_5,O=C1CCOc2ccc(Br)cc21
+mol_6,O=Cc1csc(-c2cccc(Br)c2)n1
+mol_7,CCCc1ccc(Br)cc1
+mol_8,O=C1Nc2ccc(Br)cc2C1=O
+mol_9,CN(C)c1cc(Br)ccc1CO
+mol_10,COc1cc(C=O)cc(Br)c1OC(F)F
